@@ -18,4 +18,8 @@ public class MainActivity extends AppCompatActivity {
         //onClick 주석추가
         boolean a = true;
     }
+
+    public void onClick1() {
+        boolean b = true;
+    }
 }
