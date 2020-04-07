@@ -24,4 +24,9 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="브랜치 연습"/>
+
+    <TextView
+        android:text="ggggggg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
 </RelativeLayout>
