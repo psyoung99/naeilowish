@@ -9,5 +9,9 @@
         android:layout_height="wrap_content"
         android:text="깃연습!!!"
          />
+    <Button
+        android:text="나는 버튼이지롱"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
 
 </LinearLayout>
