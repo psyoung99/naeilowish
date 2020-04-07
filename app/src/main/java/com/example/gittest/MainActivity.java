@@ -21,5 +21,6 @@ public class MainActivity extends AppCompatActivity {
 
     public void onClick1() {
         boolean b = true;
+        boolean c = false;
     }
 }
