@@ -15,5 +15,6 @@ public class MainActivity extends AppCompatActivity {
 
     //onClick
     public void onClick() {
+        //onClick 주석추가
     }
 }
